@@ -1,0 +1,6 @@
+div p{
+    width: 100%;
+    border: 5px solid red;
+    background-color: bisque;
+    padding: 10px;
+}
